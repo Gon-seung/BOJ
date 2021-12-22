@@ -1,4 +1,3 @@
-
 import sys
 
 case = int(sys.stdin.readline())
