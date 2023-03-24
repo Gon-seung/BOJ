@@ -1,0 +1,16 @@
+스택
+from collections import deque
+a = [1, 2, 3]
+a = deque(a)
+a.popleft()
+a.pop()
+a.append(1)
+a.appendleft()
+
+
+import heapq
+a = []
+heapq.heappush(a, 1)
+b = heapq.heappop(a)
+heapq.
+
